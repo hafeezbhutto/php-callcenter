@@ -1,0 +1,6 @@
+1 - Copy the files to any folder.
+2 - Execute the db.sql in your database administration software like PhpMyAdmin.
+3 - Open the file located at inc/config.php.
+4 - Edit the database information (line 4).
+5 - Edit the folder variable (line 16).
+6 - Ready! Default user and password is admin and 123456.
