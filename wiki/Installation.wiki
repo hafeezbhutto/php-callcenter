@@ -4,7 +4,6 @@
   * MySQL
   * PHP
 
-
 = Details =
 
 Follow this steps:
