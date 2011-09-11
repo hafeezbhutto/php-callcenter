@@ -2,7 +2,7 @@
 
 = Requirements =
   * MySQL
-  * PHP
+  * PHP5
 
 = Details =
 
